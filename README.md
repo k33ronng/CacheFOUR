@@ -1,6 +1,4 @@
-# fa24-cs411-team004-CacheFOUR
-
-Welcome to the official repository for **CS411 FA24 TEAM004** - CacheFOUR!
+Welcome to the official repository for **CacheFOUR**!
 
 🚀 **Project:** UniCareers  
 🌟 **Tagline:** Empowering college students to explore career paths and academic opportunities.  
